@@ -1,0 +1,37 @@
+User Stories 
+
+UserMS:
+
+User Registration and Authentication:
+
+* As a user, I want to register for an account to access the shopping platform
+* As a user, I want to log in securely to access my account and personalized features
+
+Profile Management:
+
+* As a user, I want to update my profile information (name, address, contact details) easily
+* As a user, I want to manage my preferences, such as notification settings or subscription choiceS
+
+Security and Access Control:
+
+* As a user, I want my personal information and account details to be secured and protected
+* As a user, I want to recover/reset my password securely in case I forget it
+
+Order and Transaction History:
+
+* As a user, I want to view my order history to track past purchases and their statuses
+* As a user, I want access to transaction details and invoices for my orders
+
+Address and Payment Management:
+
+* As a user, I want to manage multiple shipping addresses for convenient delivery options
+* As a user, I want to securely manage and update my payment methods
+
+Account Management and Security:
+
+* As a user, I want to easily modify or delete my account if needed
+* As a user, I want to log out securely to protect my account from unauthorized access
+
+Communication Preferences:
+
+* As a user, I want to control the frequency and type of notifications or communications I receive
